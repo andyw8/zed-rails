@@ -1,0 +1,14 @@
+[
+  {
+    "label": "bin/rails db:migrate",
+    "command": "bin/rails db:migrate"
+  },
+  {
+    "label": "bin/rails db:migrate:redo",
+    "command": "bin/rails db:migrate:redo"
+  },
+  {
+    "label": "bin/rails db:migrate:rollback",
+    "command": "bin/rails db:migrate:rollback"
+  }
+]

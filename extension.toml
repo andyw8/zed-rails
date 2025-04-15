@@ -1,0 +1,7 @@
+id = "rails"
+name = "Ruby on Rails"
+version = "0.0.1"
+schema_version = 1
+authors = ["Andy Waite <zed-rails@andywaite.com>"]
+description = "Ruby on Rails support."
+repository = "https://github.com/andyw8/zed-rails"
